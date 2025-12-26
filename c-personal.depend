@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1766693125 source:c:\users\shyna\documents\github\c-personal\main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-
